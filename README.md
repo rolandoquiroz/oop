@@ -1,5 +1,7 @@
 # Object Oriented Programming basics: Transformers: Rise of the Beasts
 
+![Transformers: Rise of the Beasts](https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Transformers-_Rise_of_the_Beasts.jpg/220px-Transformers-_Rise_of_the_Beasts.jpg)
+
 This module explains the basics of Object-Oriented Programming using characters from the "Transformers: Rise of the Beasts" movie.
 
 ## Classes
